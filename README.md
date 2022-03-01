@@ -1,7 +1,7 @@
 # MyRunner
 
 ## Warning
-This projet has been made public in order to show my skills.
+This projet has been made public in order to show my skills. Attention for EPITECH students for **-42**
 
 ## Description
 My Runner is a project of the **Graphics module part one** of the first semester of first year at Epitech. The goal of the project is to re-create a game in C with the CSFML library using the gameplay of *Geometry Dash* and *T-Rex Game*. This project was completed in 4 weeks.

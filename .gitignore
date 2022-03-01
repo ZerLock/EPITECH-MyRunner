@@ -1,0 +1,5 @@
+my_runner
+*.a
+*.o
+*gc*
+unit_tests
